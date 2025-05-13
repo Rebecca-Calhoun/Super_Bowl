@@ -148,6 +148,7 @@ model championship_win(event='1') =
         / selection=stepwise slentry=0.3 slstay=0.3;
 run;
 
+/*use firth to fix convergence*/
 /*lowest AIC Firth with entry/stay 0.3*/
 proc logistic data=NFL_lag descending;
     class Team Conference_Type / param=ref;
@@ -161,7 +162,7 @@ lag_def_rush_40plus_allowed
 /firth;
 run;
 
-/* Firth logistic regression with residuals output */
+/* Firth with residuals output */
 proc logistic data=NFL_lag descending;
     class Team Conference_Type / param=ref;
     model championship_win(event='1') =
