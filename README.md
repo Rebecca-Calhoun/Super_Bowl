@@ -1,5 +1,5 @@
 # Super_Bowl
-Predicted teams for the 2026 Super Bowl
+Predicted teams for the 2026 Super Bowl using SAS
 
 FILENAME REFFILE '/home/u63794279/sasuser.v94/NFL_new.csv';
 
