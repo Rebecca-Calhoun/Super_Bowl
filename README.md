@@ -12,7 +12,7 @@ Welcome to my collection of SAS-based analytics projects! These scripts demonstr
 
 ## Datasets
 - NFL_new.csv: Data extracted from [NFL.com/team-stats/stats](https://www.nfl.com/stats/team-stats/) for over 100 variables for seasons 2019-2024, plus pre-season power rankings from NFL.com
-- Conferences.xlsx: Data extracted from https://www.nfl.com/standings/ regarding team locations, conferences, and regions.
+- Conferences.xlsx: Data extracted from [NFL.com/standings/] (https://www.nfl.com/standings/) regarding team locations, conferences, and regions.
 
 ## Requirements
 
