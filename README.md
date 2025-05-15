@@ -4,7 +4,7 @@ Welcome to my collection of SAS-based analytics projects! These scripts demonstr
 
 ## Project Overview
 
-### 1. `Super_Bowl.sas`
+# 1. `Super_Bowl.sas`
 - Implements Logistic Regression to forecast AFC and NFC winners—predicting the teams most likely to play in the upcoming Super Bowl.
 - Includes stepwise selection (entry/stay criteria = 0.3), AIC-based model comparison, and Firth correction to address convergence issues in small or imbalanced samples..
 
