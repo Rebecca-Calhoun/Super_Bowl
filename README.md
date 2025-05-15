@@ -1,6 +1,7 @@
 # SAS Projects: Graduate Work
 
 Welcome to my collection of SAS-based analytics projects! These scripts demonstrate statistical modeling techniques used for forecasting, classification, and time series analysis. All code was developed as part of my graduate coursework in Data Analytics.
+
 ## Project Overview
 
 ### 1. `Super_Bowl.sas`
