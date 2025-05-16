@@ -1,38 +1,41 @@
-# SAS Projects: Graduate Work
+# SAS Projects Portfolio
 
-Welcome to my collection of SAS-based analytics projects! These scripts demonstrate statistical modeling techniques used for forecasting, classification, and time series analysis. All code was developed as part of my graduate coursework in Data Analytics.
+This repository contains SAS-based projects developed as part of my graduate coursework in Data Analytics. The scripts demonstrate applications of logistic regression, time series forecasting, and classification techniques using real-world datasets. Each project showcases statistical modeling, data preparation, and model evaluation performed in the SAS environment.
 
-## Project Overview
+## Project Highlights
 
-### 1. `Super_Bowl.sas`
-- Implements Logistic Regression to forecast AFC and NFC winners—predicting the teams most likely to play in the upcoming Super Bowl.
-- Includes stepwise selection (entry/stay criteria = 0.3), AIC-based model comparison, and Firth correction to address convergence issues in small or imbalanced samples.
-
-
+### `Super_Bowl.sas`
+Forecasts AFC and NFC championship winners using logistic regression. Includes stepwise variable selection, AIC model comparison, and Firth bias correction to improve convergence with small or imbalanced samples.
 
 ## Datasets
-- NFL_new.csv: Data extracted from [NFL.com/team-stats/stats](https://www.nfl.com/stats/team-stats/) for over 100 variables for seasons 2019-2024, plus pre-season power rankings from NFL.com
-- Conferences.xlsx: Data extracted from [NFL.com/standings/](https://www.nfl.com/standings/) regarding team locations, conferences, and regions.
+
+- `NFL_new.csv`: Team-level statistics from [NFL.com/stats](https://www.nfl.com/stats/team-stats/) across 2019–2024 seasons, including over 100 variables and preseason power rankings.
+- `Conferences.xlsx`: Team location, conference, and division data from [NFL.com/standings](https://www.nfl.com/standings/).
+
 
 ## Requirements
 
 - SAS 9.4+ or access to SAS Studio
-- Datasets in `.csv` or `.xlsx` format
-- No additional libraries required
+- Compatible file formats: `.csv`, `.xlsx`
+- No external libraries or macros required
 
-## How to Use
+## Getting Started
 
-1. Clone or download this repo.
-2. Open `.sas` files in SAS Studio or your local SAS environment.
-3. Modify file paths in the `libname` and `infile` statements to match your local setup.
-4. Run scripts section by section to explore model outputs.
+To run this project:
+
+1. Clone or download this repository.
+2. Open the `.sas` file in SAS Studio or your local SAS environment.
+3. Update any file paths in `libname` or `infile` statements to match your local directory.
+4. Run the script section-by-section to review model diagnostics and output.
 
 ## Notes
 
-- All models were created for educational purposes.
-- Please credit or reference this repo if adapting the code for your own work.
+- All projects are for educational and portfolio purposes.
+- Results and models reflect exploratory work rather than production-level pipelines.
 
 ## Connect
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/YOUR-PROFILE) or check out my [resume](https://yourportfolio.com) for more about my work in data analytics.
-
+**Rebecca Calhoun**  
+ 
+ M.S. in Data Analytics (in progress)  
+ [LinkedIn](https://linkedin.com/in/YOUR-PROFILE) | [Resume](https://yourportfolio.com)
