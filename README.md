@@ -1,4 +1,4 @@
-# SAS Projects Portfolio
+# sas_graduate_projects
 
 This repository contains SAS-based projects developed as part of my graduate coursework in Data Analytics. The scripts demonstrate applications of logistic regression, time series forecasting, and classification techniques using real-world datasets. Each project showcases statistical modeling, data preparation, and model evaluation performed in the SAS environment.
 
