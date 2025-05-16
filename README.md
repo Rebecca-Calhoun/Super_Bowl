@@ -4,7 +4,7 @@ This repository contains SAS-based projects developed as part of my graduate cou
 
 ## Project Highlights
 
-### `Super_Bowl.sas`
+### Super_Bowl.sas
 Forecasts AFC and NFC championship winners using logistic regression. Includes stepwise variable selection, AIC model comparison, and Firth bias correction to improve convergence with small or imbalanced samples.
 
 ## Datasets
@@ -33,7 +33,7 @@ To run this project:
 - All projects are for educational and portfolio purposes.
 - Results and models reflect exploratory work rather than production-level pipelines.
 
-## Connect
+## Author
 
 **Rebecca Calhoun**  
  
