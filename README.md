@@ -33,6 +33,9 @@ To run this project:
 - All projects are for educational and portfolio purposes.
 - Results and models reflect exploratory work rather than production-level pipelines.
 
+## Other Resources
+[My Github R Projects](https://github.com/Rebecca-Calhoun/r_graduate_projects/)
+
 ## Author
 
 **Rebecca Calhoun**  
