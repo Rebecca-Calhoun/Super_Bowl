@@ -45,6 +45,7 @@ This project uses SAS to predict which NFL teams are most likely to win their co
 |     2020 | Chiefs (0.896), Ravens (0.217)   | Buccaneers (0.519), 49ers (0.212)  |
 
 *Model predicts with 80% accuracy that Super Bowl teams will be one of the top 2 teams from each conference.*
+*2021-2022 season is outlier with Rams and Browns starting the season with low power rankings (Browns ranked 30th)*
 
 ## Goal
 
