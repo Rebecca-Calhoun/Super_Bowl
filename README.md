@@ -7,6 +7,12 @@ This repository contains SAS-based projects developed as part of my graduate cou
 ### Super_Bowl.sas
 Forecasts AFC and NFC championship winners using logistic regression. Includes stepwise variable selection, AIC model comparison, and Firth bias correction to improve convergence with small or imbalanced samples.
 
+## Requirements
+
+- SAS 9.4+ or access to SAS Studio
+- Compatible file formats: `.csv`, `.xlsx`
+- No external libraries or macros required
+
 ## Tools & Features Used
 
 - **SAS 9.4+ / SAS Studio** – All code is written in Base SAS using standard procedures and data steps.
@@ -15,12 +21,6 @@ Forecasts AFC and NFC championship winners using logistic regression. Includes s
 - **Macro Variables & Stepwise Selection** – To handle iterative modeling and variable filtering.
 - **Model Evaluation** – Includes AIC, convergence checking, and prediction accuracy evaluation.
 - No external packages or add-ons are required.
-
-## Requirements
-
-- SAS 9.4+ or access to SAS Studio
-- Compatible file formats: `.csv`, `.xlsx`
-- No external libraries or macros required
 
 ## Getting Started
 
