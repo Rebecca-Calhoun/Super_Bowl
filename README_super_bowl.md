@@ -32,14 +32,17 @@ This project uses SAS to predict which NFL teams are most likely to win their co
 
 ## Prediction Summary (Championship Win Probability)
 
-|   Season | Top Predicted Teams  (probability) |
-|----------|--------------------------------|
-|     2025 | Chiefs (0.575), Eagles (0.485) |
-|     2024 | Chiefs (0.718), Eagles (0.696) |
-|     2023 | Chiefs (0.754), 49ers (0.173)  |
-|     2022 | Eagles (0.931), Chiefs (0.324) |
-|     2021 | Buccaneers (0.400), Ravens (0.328) |
-|     2020 | Chiefs (0.896), Buccaneers (0.519) |
+### Top Predicted Teams by Conference
+
+
+|   Season | Top AFC Teams (probability)      | Top NFC Teams   (probability)      |
+|---------:|:---------------------------------|:-----------------------------------|
+|     2025 | Chiefs (0.575), Ravens (0.387)   | Eagles (0.485), Seahawks (0.132)   |
+|     2024 | Chiefs (0.718), Raiders (0.036)  | Eagles (0.696), Lions (0.155)      |
+|     2023 | Chiefs (0.754), Steelers (0.215) | 49ers (0.173), Cowboys (0.436)     |
+|     2022 | Chiefs (0.324), Bills (0.086)    | Eagles (0.931), Buccaneers (0.073) |
+|     2021 | Ravens (0.328), Bills (0.194)    | Buccaneers (0.400), Rams (0.129)   |
+|     2020 | Chiefs (0.896), Ravens (0.217)   | Buccaneers (0.519), 49ers (0.212)  |
 
 
 
@@ -51,4 +54,4 @@ To determine whether preseason ranking and prior-season team performance can acc
 
 **Rebecca Calhoun**  
 M.S. in Data Analytics (July 2025)  
-[LinkedIn](https://www.linkedin.com/in/rebecca-calhoun9/) | [Resume](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/rebecca-calhoun9/) | 
